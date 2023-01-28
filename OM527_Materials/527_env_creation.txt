@@ -1,0 +1,4 @@
+conda create -n 527_env python=3.10
+conda activate 527_env
+conda install pandas openpyxl xlrd numpy scipy scikit-learn matplotlib seaborn ipywidgets nodejs jupyterlab
+conda install -c conda-forge pulp
